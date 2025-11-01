@@ -19,7 +19,7 @@ Designed for **Ubuntu 24.04 LTS** — ideal for **Junior SysAdmin**, **DevOps**,
 
 | **Live Telegram Alert** | **Terminal (Setup & Automation)** |
 | :---: | :---: |
-| ![Live Telegram Alert](docs/telegram_alert.png) | ![Terminal Setup & Automation](docs/script_execution.png) |
+| ![Live Telegram Alert](docs/telegram_alert.PNG) | ![Terminal Setup & Automation](docs/script_execution.PNG) |
 
 ---
 
