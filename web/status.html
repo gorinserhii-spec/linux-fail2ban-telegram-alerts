@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Server Security Status</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }
+    .card { background: white; padding: 20px; border-radius: 8px; max-width: 600px; margin: auto; }
+    h1 { color: #d32f2f; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🛡️ Server Security Status</h1>
+    <p><strong>Last updated:</strong> <span id="time"></span></p>
+    <p><strong>Banned IPs (last 24h):</strong> <span id="count">—</span></p>
+    <p><em>Note: This page is static. For live data, check logs or Telegram alerts.</em></p>
+  </div>
+
+  <script>
+    document.getElementById('time').textContent = new Date().toLocaleString();
+    // In a real setup, you'd fetch count via a backend script
+    document.getElementById('count').textContent = "Data from Telegram report";
+  </script>
+</body>
+</html>
