@@ -108,3 +108,6 @@ This project is licensed under the [MIT License](./LICENSE).
 =================================================
 # Author: Serhii Gorin 
 # Date: 11.10.2025
+
+---
+> ℹ️ **Note:** The scripts in this repository were implemented using AI-assisted tools to optimize the automation logic. The focus of this project is on **System Administration** and **Infrastructure logic**, ensuring the solution works correctly in a production-like environment.
