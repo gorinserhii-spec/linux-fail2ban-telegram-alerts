@@ -1,6 +1,6 @@
 # 🔐 Secure Linux Server with Fail2ban + Telegram Alerts
 
-This project provides a **complete automation system for securing a Linux server** using **Fail2ban** and **Telegram integration**.
+This project implements **automated security monitoring for a Linux server** using **Fail2ban** and **Telegram integration**.
 It blocks brute-force attacks, sends daily reports to Telegram, and generates a web-based status dashboard.
 
 Designed for **Ubuntu 24.04 LTS** — ideal for **Junior SysAdmin**, **DevOps**, or **SOC Analyst** skill development.
@@ -96,7 +96,7 @@ This will send the report every day at 07:00.
 ### 🧠 Summary
 This project demonstrates professional Linux hardening and security automation practices:
 
-- Efficient Bash scripting
+- **Shell Script implementation**
 - System monitoring and reporting
 - Telegram API integration
 - Fail2ban configuration management
